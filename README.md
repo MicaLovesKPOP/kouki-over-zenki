@@ -1,30 +1,31 @@
 # Kouki > Zenki
 
-A deliberately overproduced single-purpose static website presenting the only thesis that matters:
+> Zenki is history. Kouki is destiny.
+
+A multidisciplinary investigation into one of humanity's oldest and most important questions.
+
+History, philosophy, politics, economics, psychology, sociology, mathematics, theology, K-pop, pancakes, and several other branches of human knowledge independently arrive at the same conclusion:
 
 **Kouki > Zenki.**
 
-## GitHub Pages
+## Read the research
 
-This site has no build step and no dependencies.
+https://micaloveskpop.github.io/kouki-over-zenki/
 
-1. Create a new GitHub repository.
-2. Upload `index.html`, `styles.css`, and `script.js` to the repository root.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select your default branch (usually `main`) and `/ (root)`.
-6. Save. GitHub Pages will publish the site.
+## Methodology
 
-If you use a custom domain later, the site itself needs no changes.
+Extremely rigorous.
 
-## Files
+## Conclusion
 
-- `index.html` — the complete essay and semantic page structure
-- `styles.css` — responsive editorial/art-direction layer, print styling, and final verdict presentation
-- `script.js` — reading progress, active section index, and copy-link interaction
+Bro is coping.
 
-## Design intent
+---
 
-The presentation mixes an academic manifesto, Japanese automotive brochure, and fashion-editorial visual language. It intentionally escalates with the argument: restrained thesis, increasingly theatrical evidence sections, interstitial declarations, and a full-screen final verdict.
+**This research was necessitated by one man's refusal to accept reality.**
 
-The page is responsive, keyboard-friendly, reduced-motion aware, and printable.
+### License
+
+Site code is licensed under the MIT License.
+
+The written essay and other original textual content are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
